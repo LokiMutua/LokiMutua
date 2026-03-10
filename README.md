@@ -1,7 +1,7 @@
 Hi 👋 My name is Loki Mutua
 ===========================
 
-Full Stack Developer
+Senior Software Engineer
 --------------------
 
 * 🌍  I'm based in Nairobi, Kenya
